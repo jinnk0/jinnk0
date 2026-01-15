@@ -34,8 +34,8 @@
 
 <h3 align="center">📊 Github Stats</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinnk0&theme=moltack" width="30%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jinnk0&theme=moltack" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinnk0&theme=moltack" width="35%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jinnk0&theme=moltack" width="35%" />
 </p>
 
 <br>
