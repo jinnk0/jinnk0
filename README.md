@@ -34,8 +34,8 @@
 
 <h3 align="center">📊 Github Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinnk0&show_icons=true&theme=radical&cache_seconds=1800" width="48%" alt="GitHub Status" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnk0&layout=compact&theme=radical&cache_seconds=1800" width="45%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinnk0&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jinnk0&theme=radical" width="48%" />
 </p>
 
 <br>
