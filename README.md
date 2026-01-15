@@ -3,10 +3,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jinnk0&theme=radical&column=7&no-bg=true" alt="trophy" />
-</p>
-
-<p align="center">
 🚀 "어제의 나보다 더 나은 오늘의 나"를 목표로 하루하루 성장하고 있습니다. 🌱 <br>
 모르던 것을 새롭게 알게 되는 일을 좋아하며, 항상 배움에 대한 호기심을 가지고 있어요. 🤓
 </p>
@@ -36,23 +32,10 @@
 
 <br>
 
-<h3 align="center">📝 Latest Blog Posts</h3>
-<p align="center">
-  <a href="https://velog.io/@slow_runner/posts">- 포스팅 제목 1</a> | 
-  <a href="https://velog.io/@slow_runner/posts">- 포스팅 제목 2</a> | 
-  <a href="https://velog.io/@slow_runner/posts">- 포스팅 제목 3</a>
-</p>
-
-<br>
-
 <h3 align="center">📊 Github Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinnk0&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnk0&layout=compact&theme=radical" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinnk0&theme=radical" width="87%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jinnk0&show_icons=true&theme=radical&cache_seconds=1800" width="48%" alt="GitHub Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnk0&layout=compact&theme=radical&cache_seconds=1800" width="45%" alt="Top Languages" />
 </p>
 
 <br>
